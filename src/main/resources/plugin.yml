@@ -1,0 +1,4 @@
+name: 'AstroCommands'
+main: 'net.unix.astrocommands.basic.CommandsPlugin'
+author: 'Unix'
+version: '1.0'

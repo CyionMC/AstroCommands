@@ -1,0 +1,8 @@
+commands:
+  help:
+    name: 'help'
+    description: 'Custom help'
+    aliases:
+      - 'pomoc'
+    messages:
+      - '&8>> &aHello!'
