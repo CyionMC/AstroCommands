@@ -4,8 +4,8 @@ import org.bukkit.ChatColor;
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
 
-public final class MessageHelper {
-
+public final class MessageHelper 
+{
     @Contract(pure = true)
     private MessageHelper() {
     }
